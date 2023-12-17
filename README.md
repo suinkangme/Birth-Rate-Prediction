@@ -1,7 +1,9 @@
 ## Predicting Birth Rate using population and economic data
 
-### COMP 333 Project (Fall 2023)
+## COMP 333 Project (Fall 2023)
 - follows ETL (Extract - Transform - Load)
+
+<br>
 
 1) Possible Dataset Collection & Data Integration
 2) Data Cleaning & Transformation
@@ -9,17 +11,20 @@
 4) Data Visualization (Dashboard) 
 
 <br>
+<br>
 
-<h4>Covered topics</h4>
+<h4>[ Covered topics ]</h4>
 : DI, DC, DT, DV, Modeling
 
 <br>
 
-<h4>Used Tools</h4>
+<h4> [ Used Tools ] </h4>
 : Github, Google Colab, jupyter notebook, the libraries from sklearn, PyTorch, Pandas, Numpy, matplotlib, PowerBI
 
 
-<h4>Dataset Collection</h4>
+
+<br> 
+<h4>[ Dataset Collection ]</h4>
 
 population
 https://ourworldindata.org/grapher/population?tab=table&time=1986..latest

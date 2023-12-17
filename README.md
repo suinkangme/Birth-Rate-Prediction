@@ -31,7 +31,6 @@
 
 
 <h4>[ Dataset Collection ]</h4>
-<br>
 
 population
 https://ourworldindata.org/grapher/population?tab=table&time=1986..latest

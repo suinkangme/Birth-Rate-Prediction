@@ -13,14 +13,18 @@
 <br>
 <br>
 
-<h4>[ Covered topics ]</h4>
-: DI, DC, DT, DV, Modeling
-
-<br>
-<br>
 
 <h4> [ Used Tools ] </h4>
 : Github, Google Colab, jupyter notebook, the libraries from sklearn, PyTorch, Pandas, Numpy, matplotlib, PowerBI
+
+
+<br>
+<br>
+
+
+
+<h4>[ Covered topics ]</h4>
+: DI, DC, DT, DV, Modeling
 
 
 <br>

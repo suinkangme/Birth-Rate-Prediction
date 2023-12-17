@@ -4,7 +4,6 @@
 - follows ETL (Extract - Transform - Load)
 
 <br>
-
 1) Possible Dataset Collection & Data Integration
 2) Data Cleaning & Transformation
 3) Modelling and deploying the model with your application (Machine Learning - Regression) 
@@ -17,13 +16,15 @@
 : DI, DC, DT, DV, Modeling
 
 <br>
+<br>
 
 <h4> [ Used Tools ] </h4>
 : Github, Google Colab, jupyter notebook, the libraries from sklearn, PyTorch, Pandas, Numpy, matplotlib, PowerBI
 
 
-
+<br>
 <br> 
+
 <h4>[ Dataset Collection ]</h4>
 
 population

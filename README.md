@@ -29,6 +29,14 @@
 <br>
 <br> 
 
+<h4>
+ dataset directory information
+</h4>
+
+<p>
+world_data directory holds the datasets in their raw form (no cleaning or transformation) <br>
+complete_data directory holds the datasets after transformation and cleaning
+</p>
 
 <h4>[ Dataset Collection ]</h4>
 
@@ -89,3 +97,5 @@ https://ourworldindata.org/world-region-map-definitions
 10 kb
  
 Total: 6576 kb
+
+

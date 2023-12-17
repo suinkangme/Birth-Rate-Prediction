@@ -1,6 +1,6 @@
-## Predicting Birth Rate using population and economic data
+## Predicting Birth Rate Using Population and Economic Data
 
-## COMP 333 Project (Fall 2023)
+### COMP 333 Project (Fall 2023)
 - follows ETL (Extract - Transform - Load)
 
 <br>

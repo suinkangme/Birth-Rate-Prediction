@@ -4,6 +4,7 @@
 - follows ETL (Extract - Transform - Load)
 
 <br>
+
 1) Possible Dataset Collection & Data Integration
 2) Data Cleaning & Transformation
 3) Modelling and deploying the model with your application (Machine Learning - Regression) 
@@ -24,6 +25,7 @@
 
 <br>
 <br> 
+
 
 <h4>[ Dataset Collection ]</h4>
 

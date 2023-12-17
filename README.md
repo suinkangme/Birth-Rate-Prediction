@@ -10,9 +10,8 @@
 3) Modelling and deploying the model with your application (Machine Learning - Regression) 
 4) Data Visualization (Dashboard) 
 
-<br>
-<br>
 
+<br>
 
 <h4> [ Used Tools ] </h4>
 : Github, Google Colab, jupyter notebook, the libraries from sklearn, PyTorch, Pandas, Numpy, matplotlib, PowerBI
@@ -32,6 +31,7 @@
 
 
 <h4>[ Dataset Collection ]</h4>
+<br>
 
 population
 https://ourworldindata.org/grapher/population?tab=table&time=1986..latest
